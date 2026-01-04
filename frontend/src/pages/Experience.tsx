@@ -149,7 +149,7 @@ const Experience: React.FC = () => {
               Get in Touch
             </a>
             <a
-              href="https://linkedin.com/in/hiteshlaware"
+              href="https://linkedin.com/in/hitesh-l-aa3a72101"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 border border-white/20 text-sm font-medium rounded hover:bg-white/5 transition-colors inline-flex items-center justify-center gap-2"
