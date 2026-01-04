@@ -15,7 +15,7 @@ const Home: React.FC = () => {
               transition={{ duration: 0.6 }}
               className="text-gray-500 text-sm tracking-widest uppercase mb-4"
             >
-              Senior Software Engineer
+              Software Engineer
             </motion.p>
             
             <motion.h1 
